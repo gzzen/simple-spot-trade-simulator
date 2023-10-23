@@ -1,0 +1,25 @@
+{
+    "cash": 680,
+    "securities": [
+        {
+            "holding": {
+                "quantities": [
+                    {"quantity": "10"},
+                    {"quantity": "10"}
+                ],
+                "prices": [
+                    {"price": "10"},
+                    {"price": "20"}
+                ]
+            },
+            "code": "APPL"
+        },
+        {
+            "holding": {
+                "quantities": [{"quantity": "1"}],
+                "prices": [{"price": "20"}]
+            },
+            "code": "AMZN"
+        }
+    ]
+}
